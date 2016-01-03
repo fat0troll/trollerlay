@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+ 
+ <repositories version="1.0">
+ 	<repo priority="50" quality="experimental" status="unofficial">
+		<name>trollerlay</name>
+		<description>Troller's Gentoo overlay</description>
+		<homepage>https://github.com/fat0troll/trollerlay</homepage>
+		<owner>
+			<email>iam@toofat.ru</email>
+		</owner>
+		<source type="git">https://github.com/fat0troll/trollerlay.git</source>
+	</repo>
+</repositories>
