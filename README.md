@@ -7,3 +7,4 @@ Use at your own risk, blah blah blah.
 ##### Packages
 
 * dev-ruby/chruby (0.9.3)
+* net-news/feedreader (1.4.2)
