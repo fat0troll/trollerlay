@@ -49,6 +49,6 @@ src_configure() {
 
 pkg_postinst() {
 	elog "This package is a forked version of KeePassX, "
-	elog "mainteined by surefire (https://github.com/repsac-by)."
-	elog "If you see any errors, first contact him."
+	elog "maintained by surefire (https://github.com/repsac-by)."
+	elog "If you see any errors, contact him first."
 }
